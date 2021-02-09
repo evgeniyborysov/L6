@@ -57,6 +57,10 @@ h1,h3 {
     background-color:#625e77 
 }
 
+.list li:active {
+    background-color:#db5517 
+}
+
 .list [type="checkbox"] {
     width: 20px;
     height: 20px;
